@@ -1,0 +1,15 @@
+﻿<Window x:Class="TextFileParser.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextFileParser"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="450" Width="800">
+    <Grid>
+        <TextBox x:Name="SummaryText" HorizontalAlignment="Left" Height="159" Margin="46,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="210" IsReadOnly="True"/>
+        <Button x:Name="OpenButton" Content="Open" HorizontalAlignment="Center" Height="28" Margin="0,110,0,0" VerticalAlignment="Top" Width="210" Click="OpenButton_Click"/>
+        <TextBox x:Name="PathText" HorizontalAlignment="Left" Height="26" Margin="295,58,0,0" TextWrapping="Wrap" VerticalAlignment="Top" Width="460" IsReadOnly="True"/>
+        <Button x:Name="Button_Summarize" Content="Summarize" HorizontalAlignment="Center" Height="27" Margin="0,155,0,0" VerticalAlignment="Top" Width="210" Click="Button_Summarize_Click"/>
+    </Grid>
+</Window>

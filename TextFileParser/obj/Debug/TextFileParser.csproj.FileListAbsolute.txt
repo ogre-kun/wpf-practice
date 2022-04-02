@@ -1,0 +1,16 @@
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\bin\Debug\TextFileParser.exe.config
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\bin\Debug\TextFileParser.exe
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\bin\Debug\TextFileParser.pdb
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\obj\Debug\TextFileParser.csproj.AssemblyReference.cache
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\obj\Debug\TextFileParser.csproj.SuggestedBindingRedirects.cache
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\obj\Debug\MainWindow.g.cs
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\obj\Debug\App.g.cs
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\obj\Debug\TextFileParser_MarkupCompile.cache
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\obj\Debug\TextFileParser_MarkupCompile.lref
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\obj\Debug\MainWindow.baml
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\obj\Debug\TextFileParser.g.resources
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\obj\Debug\TextFileParser.Properties.Resources.resources
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\obj\Debug\TextFileParser.csproj.GenerateResource.cache
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\obj\Debug\TextFileParser.csproj.CoreCompileInputs.cache
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\obj\Debug\TextFileParser.exe
+C:\Users\Ogre-kun\source\repos\ogre-kun\wpf-practice\TextFileParser\obj\Debug\TextFileParser.pdb
